@@ -1,0 +1,10 @@
+.receipt-box{
+    border: solid 2px;
+    margin: 10px;
+    background-color: cadetblue;
+}
+
+.receipt-box ul li{
+    /* text-decoration: none; */
+    list-style-type:none;
+}
